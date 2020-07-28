@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.observable;
 
 import java.util.Observable;
 import java.util.Observer;
